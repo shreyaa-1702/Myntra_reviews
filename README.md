@@ -1,11 +1,11 @@
-Myntra Reviews Analysis
+##**Myntra Reviews Analysis**
 
-📌 Project Overview
+📌 **Project Overview**
 
 This project analyzes customer reviews from Myntra using Natural Language Processing (NLP) techniques. 
 The goal is to extract insights from customer feedback, identify trends, and understand sentiment distribution.
 
-📊 Key Features
+📊 **Key Features**
 
 - Word Cloud Visualization to highlight commonly used words in reviews.
   
@@ -15,7 +15,7 @@ The goal is to extract insights from customer feedback, identify trends, and und
   
 - Data Preprocessing including text cleaning and tokenization.
 
-🛠 Technologies Used
+🛠 **Technologies Used**
 
 - Python (Pandas, NumPy, NLTK, Scikit-learn)
   
@@ -23,13 +23,13 @@ The goal is to extract insights from customer feedback, identify trends, and und
   
 - Natural Language Processing (NLP) for text analysis
 
-📂 Dataset
+📂 **Dataset**
 
 - The dataset consists of Myntra customer reviews.
   
 - It includes columns such as Review Text, Rating, and Sentiment Labels.
 
-🚀 Implementation Steps
+🚀 **Implementation Steps**
 
 - Data Loading & Preprocessing
   
@@ -49,7 +49,7 @@ The goal is to extract insights from customer feedback, identify trends, and und
   
 - Classifying reviews as positive, negative, or neutral
 
-📊 Results & Insights
+📊 **Results & Insights**
 
 - Frequently occurring words indicate common themes in customer feedback.
   
